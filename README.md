@@ -1,8 +1,6 @@
-<h1 align="left"></h1>
 
-###
 
-<p align="left">My name is George, and I'm a Student at the University of Leicester</p>
+<p align="left">Hi, I'm George, and I'm a Student at the University of Leicester</p>
 
 ###
 
@@ -23,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 
 </div>
